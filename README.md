@@ -1,4 +1,4 @@
-# Who I am 👨‍💻
+# Who I Am 👨‍💻
 
 Hi, I am Kirill — a Software Engineer focused on Back-end Development mostly using Ruby and Go. Interested in Microservices, Distributed Systems and Cloud Services.
 
